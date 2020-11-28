@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_Local"
+            android:icon="@drawable/baseline_location_on_black_24dp"
+            android:title="Onde Estou" />
+        <item
+            android:id="@+id/nav_ListaLocais"
+            android:icon="@drawable/ic_menu_send"
+            android:title="Lista Locais"/>
+        <item
+            android:id="@+id/nav_DeletaAll"
+            android:icon="@drawable/baseline_delete_black_24dp"
+            android:title="Deleta Registros"/>
+    </group>
+
+</menu>

@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Teste_Toast</string>
+    <string name="btnChamaTela">Chama Tela</string>
+</resources>
